@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>  
+    <student name="sai krishna">  
+        <id>101</id>  
+        <firstname>saikrishna</firstname>  
+        <lastname>Bade</lastname>  
+        <subject>Math</subject>  
+        <marks>83</marks>
+        <Gender>Male</Gender>  
+    </student>  
+      
+    <student name="Jhansi">  
+        <id>102</id>  
+        <firstname>Jhansi</firstname>  
+        <lastname>Bade</lastname>  
+        <subject>Chemistry</subject>  
+        <marks>60</marks>
+        <Gender>Male</Gender>   
+    </student>  
+    
+    <student name="Ravindra">  
+        <id>103</id>  
+        <firstname>Ravindra babu</firstname>  
+        <lastname>Bade</lastname>  
+        <subject>English</subject>  
+        <marks>70</marks> 
+        <Gender>Male</Gender>  
+    </student>  
+    
+    <student name="Jhoshika">  
+        <id>104</id>  
+        <firstname>Jhoshika</firstname>  
+        <lastname>Bade</lastname>  
+        <subject>Physics</subject>  
+        <marks>76</marks>
+        <Gender>Male</Gender>   
+    </student>  
+</class>  
+
+
+
+
